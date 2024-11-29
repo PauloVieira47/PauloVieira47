@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bem-vindo ao meu perfil! Sou <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 🚀</h1>
+  <h1>Bem-vindo ao meu perfil! <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 🚀</h1>
   <p>Desenvolvedor apaixonado por tecnologia, focado em <strong>Java</strong>, <strong>Angular</strong> e <strong>TypeScript</strong>.</p>
   <p>Estou sempre em busca de novos desafios e aprendizados para crescer cada vez mais na área de desenvolvimento de software.</p>
 </div>
@@ -46,13 +46,5 @@
   </a>
 </div>
 
----
 
-### ✨ Sobre mim
-
-- 🌱 **Aprendizado contínuo**: Atualmente estou me aprofundando mais em **Desenvolvimento Backend** e **Computação em Nuvem**.
-- 💬 **Sempre em busca de evolução**: Gosto de compartilhar ideias e aprender com outros desenvolvedores sobre **boas práticas** e **novas tecnologias**.
-- ⚡ **Curiosidade**: Acredito que desafios são a chave para o crescimento, e estou sempre pronto para o próximo passo na minha jornada!
-
----
 
