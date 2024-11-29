@@ -1,17 +1,34 @@
 <div align="center">
-  <h1>Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/"><i>Paulo Vieira</i></a> 😃️</h1>
-  <p>Desenvolvedor apaixonado por tecnologia e focado em Java, Angular e TypeScript 🚀</p>
+  <h1>Oi, tudo bem? Eu sou o <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 😃️</h1>
+  <p>Desenvolvedor apaixonado por tecnologia, especializado em <strong>Java</strong>, <strong>Angular</strong>, e <strong>TypeScript</strong> 🚀</p>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</div><br>
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center" valign="top">
+  <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Angular" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
+
+---
+
+### 📈 Estatísticas do GitHub
 
 <div align="center">
-  ![Snake animation](https://github.com/PauloVieira47/PauloVieira47/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://github.com/PauloVieira47">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloVieira47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira47&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
+
+---
+
+### 🌐 Redes Sociais
 
 <div align="center">
   <a href="https://www.instagram.com/paulo_vieira47/" target="_blank">
@@ -27,3 +44,14 @@
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
+
+---
+
+### ✨ Sobre mim
+
+- 🌱 Atualmente estou aprendendo mais sobre **Desenvolvimento Backend** e **Cloud Computing**.
+- 💬 Adoro conversar sobre **tecnologia**, **boas práticas de desenvolvimento**, e **carreiras na área de TI**.
+- ⚡ Curiosidade: Sou fã de desafios e sempre busco maneiras de me reinventar!
+
+---
+
