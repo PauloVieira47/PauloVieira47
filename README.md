@@ -10,9 +10,7 @@
 </div><br>
 
 <div align="center">
-  <a href="https://github.com/PauloVieira47">
-    <img src="https://github.com/PauloVieira47/PauloVieira47/blob/output/github-contribution-grid-snake.svg" alt="Animação com o nome Paulo Vieira" />
-  </a>
+  ![Snake animation](https://github.com/PauloVieira47/PauloVieira47/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <div align="center">
