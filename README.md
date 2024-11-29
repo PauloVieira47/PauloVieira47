@@ -1,13 +1,6 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/"><i>Paulo Vieira</i></a> 😃️</h1>
-  <p align="center">Desenvolvedor apaixonado por tecnologia e focado em Java, Angular e TypeScript 🚀</p>
-</div>
-
 <div align="center">
-  <a href="https://github.com/paulo-vieira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=paulo-vieira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-vieira&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+  <h1>Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/"><i>Paulo Vieira</i></a> 😃️</h1>
+  <p>Desenvolvedor apaixonado por tecnologia e focado em Java, Angular e TypeScript 🚀</p>
 </div>
 
 <div align="center" valign="top"><br>
