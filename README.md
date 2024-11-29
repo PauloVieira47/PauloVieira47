@@ -10,6 +10,12 @@
 </div><br>
 
 <div align="center">
+  <a href="https://github.com/PauloVieira47">
+    <img src="https://github.com/PauloVieira47/PauloVieira47/blob/output/github-contribution-grid-snake.svg" alt="Animação com o nome Paulo Vieira" />
+  </a>
+</div>
+
+<div align="center">
   <a href="https://www.instagram.com/paulo_vieira47/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
@@ -22,8 +28,4 @@
   <a href="https://twitter.com/PauloVieira47" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-</div>
-
-<div align="center">
-  ![Snake animation](https://github.com/paulo-vieira/paulo-vieira/blob/output/github-contribution-grid-snake.svg)
 </div>
