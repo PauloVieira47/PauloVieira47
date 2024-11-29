@@ -2,7 +2,6 @@
   <h1>Bem-vindo ao meu perfil! <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 🚀</h1>
   <p>Sou desenvolvedor, sou curioso em tudo que envolve tecnologia! 💻</p>
   <p>Atualmente, estou focado em <strong>Java</strong>, <strong>Angular</strong> e <strong>TypeScript</strong>, e sempre buscando aprender algo novo para melhorar no que faço.</p>
-  
 </div>
 
 ---
@@ -22,8 +21,10 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/PauloVieira47">
+  <a href="https://github.com/PauloVieira47?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloVieira47&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/PauloVieira47?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira47&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
@@ -46,4 +47,3 @@
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
-
