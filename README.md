@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Bem-vindo ao meu perfil! <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 🚀</h1>
-  <p>Desenvolvedor apaixonado por tecnologia, focado em <strong>Java</strong>, <strong>Angular</strong> e <strong>TypeScript</strong>.</p>
-  <p>Estou sempre em busca de novos desafios e aprendizados para crescer cada vez mais na área de desenvolvimento de software.</p>
+  <p>Sou desenvolvedor, sempre curioso e apaixonado por tudo que envolve tecnologia! 💻</p>
+  <p>Atualmente, estou focado em <strong>Java</strong>, <strong>Angular</strong> e <strong>TypeScript</strong>, e sempre buscando aprender algo novo para melhorar no que faço.</p>
+  <p>Se você também ama tecnologia e está sempre atrás de novos desafios, estamos na mesma vibe! 😄</p>
 </div>
 
 ---
@@ -45,6 +46,4 @@
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
-
-
 
