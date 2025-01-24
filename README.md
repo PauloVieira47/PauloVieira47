@@ -9,11 +9,13 @@
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
+  <!-- Estatísticas Gerais -->
   <a href="https://github.com/PauloVieira47?tab=repositories" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PauloVieira47&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Minhas Estatísticas no GitHub"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PauloVieira47&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Minhas%20Estat%C3%ADsticas%20no%20GitHub"/>
   </a>
+  <!-- Linguagens Mais Usadas -->
   <a href="https://github.com/PauloVieira47?tab=repositories" target="_blank">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira47&layout=compact&langs_count=7&theme=radical&card_width=300&title_color=FF4680&title=Principais Linguagens"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira47&layout=compact&langs_count=7&theme=radical&card_width=300&title_color=FF4680"/>
   </a>
 </div>
 
