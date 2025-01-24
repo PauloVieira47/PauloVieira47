@@ -40,9 +40,9 @@
   <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="![image](https://github.com/user-attachments/assets/bd4944a3-8755-4308-902d-d40abe77e7ff)
+  <a href="[![image](https://github.com/user-attachments/assets/bd4944a3-8755-4308-902d-d40abe77e7ff)](https://www.facebook.com/100023813533278)
 " target="_blank">
-    <img src="[https://www.facebook.com/profile.php?id=100023813533278](https://www.facebook.com/share/18SjCGXqx6/)" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white " target="_blank">
   </a>
   <a href="https://twitter.com/PauloVieira47" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
