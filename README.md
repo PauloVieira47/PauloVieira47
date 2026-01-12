@@ -1,52 +1,45 @@
-<div align="center">
-  <h1>Bem-vindo ao meu perfil! <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank"><i>Paulo Vieira</i></a> 🚀</h1>
-  <p>Sou desenvolvedor, sou curioso em tudo que envolve tecnologia! 💻</p>
-  <p>Atualmente, estou focado em <strong>Java</strong>, <strong>Angular</strong> com <strong>TypeScript</strong>, e sempre buscando aprender algo novo para melhorar no que faço.</p>
-</div>
+<!-- README do Perfil — Paulo Vieira -->
+
+<h1 align="center">Paulo Vieira</h1>
+<p align="center">
+  Desenvolvedor focado em construir soluções web modernas, com atenção a performance, qualidade e experiência do usuário.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank">LinkedIn</a>
+  •
+  <a href="https://www.instagram.com/paulo_vieira47/" target="_blank">Instagram</a>
+  •
+  <a href="https://twitter.com/PauloVieira47" target="_blank">Twitter</a>
+</p>
 
 ---
 
-### 📈 Estatísticas do GitHub
+## Sobre mim
 
-<div align="center">
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api?username=PauloVieira47&show_icons=true&theme=radical" />
-
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloVieira47&layout=compact&theme=radical" />
-</div>
-
+- 💻 Desenvolvedor com interesse forte em **tecnologia aplicada no dia a dia**
+- 🎯 Atualmente estudando e praticando **Java**, **Angular** e **TypeScript**
+- 🧠 Curioso por sistemas, automação, integrações e boas práticas
+- 📌 Objetivo: evoluir sempre e entregar projetos bem feitos, do design ao código
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## Stack principal
 
-<div align="center" valign="top">
-  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="SCSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-0B0B0B?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-0B0B0B?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+## Tecnologias e ferramentas
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-0B0B0B?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-0B0B0B?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
-
-### 🌐 Redes Sociais
-
-<div align="center">
-  <a href="https://www.instagram.com/paulo_vieira47/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/paulo-vieira-9670a9321/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.facebook.com/100023813533278" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/PauloVieira47" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-</div>
